@@ -77,6 +77,29 @@
   },
   {
     "item": {
+      "value": "Q6767006",
+      "label": "Mark Carlisle"
+    },
+    "replaces": {
+      "value": "Q333578",
+      "label": "Norman St John-Stevas, Baron St John of Fawsley"
+    },
+    "replacedBy": {
+      "value": "Q5585620",
+      "label": "Gordon Oakes"
+    },
+    "start": {
+      "value": "1978-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6767006$B46E1760-D12F-48D3-8601-9DF1D2CCA30D"
+  },
+  {
+    "item": {
       "value": "Q317258",
       "label": "Neil Kinnock"
     },
@@ -97,6 +120,29 @@
       "precision": "11"
     },
     "statement": "Q317258$C8471184-0FD7-467E-BBB0-038EB4339166"
+  },
+  {
+    "item": {
+      "value": "Q5585620",
+      "label": "Gordon Oakes"
+    },
+    "replaces": {
+      "value": "Q6767006",
+      "label": "Mark Carlisle"
+    },
+    "replacedBy": {
+      "value": "Q317258",
+      "label": "Neil Kinnock"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5585620$BF4ECFDF-1712-4A32-A851-00F056AEBD98"
   },
   {
     "item": {
@@ -169,6 +215,14 @@
   },
   {
     "item": {
+      "value": "Q264196",
+      "label": "David Blunkett"
+    },
+    "replaces": {
+      "value": "Q332843",
+      "label": "Ann Taylor, Baroness Taylor of Bolton"
+    },
+    "replacedBy": {
       "value": "Q264196",
       "label": "David Blunkett"
     },
@@ -256,6 +310,14 @@
       "value": "Q264766",
       "label": "Theresa May"
     },
+    "replaces": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "replacedBy": {
+      "value": "Q391960",
+      "label": "Damian Green"
+    },
     "start": {
       "value": "1999-06-15T00:00:00Z",
       "precision": "11"
@@ -288,6 +350,29 @@
       "precision": "11"
     },
     "statement": "Q391960$E3020152-3760-423A-A260-9E23EB9383BD"
+  },
+  {
+    "item": {
+      "value": "Q259961",
+      "label": "Tim Yeo"
+    },
+    "replaces": {
+      "value": "Q391960",
+      "label": "Damian Green"
+    },
+    "replacedBy": {
+      "value": "Q5611004",
+      "label": "Tim Collins"
+    },
+    "start": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2004-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q259961$3BE8B8CD-76F3-45C1-A2C1-6B696BD69FEF"
   },
   {
     "item": {
@@ -362,6 +447,14 @@
     "item": {
       "value": "Q333937",
       "label": "Michael Gove"
+    },
+    "replaces": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "replacedBy": {
+      "value": "Q260464",
+      "label": "Ed Balls"
     },
     "start": {
       "value": "2007-07-02T00:00:00Z",
@@ -474,6 +567,10 @@
       "value": "Q691064",
       "label": "Tristram Hunt"
     },
+    "replacedBy": {
+      "value": "Q391442",
+      "label": "Pat Glass"
+    },
     "start": {
       "value": "2015-09-13T00:00:00Z",
       "precision": "11"
@@ -492,6 +589,10 @@
     "replaces": {
       "value": "Q6698469",
       "label": "Lucy Powell"
+    },
+    "replacedBy": {
+      "value": "Q18164278",
+      "label": "Angela Rayner"
     },
     "start": {
       "value": "2016-06-27T00:00:00Z",
@@ -512,8 +613,16 @@
       "value": "Q391442",
       "label": "Pat Glass"
     },
+    "replacedBy": {
+      "value": "Q19979355",
+      "label": "Rebecca Long-Bailey"
+    },
     "start": {
       "value": "2016-07-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-05T00:00:00Z",
       "precision": "11"
     },
     "statement": "Q18164278$73ab7ef5-4342-7ec1-cb31-f4f927bb48a2"
@@ -522,6 +631,14 @@
     "item": {
       "value": "Q19979355",
       "label": "Rebecca Long-Bailey"
+    },
+    "replaces": {
+      "value": "Q18164278",
+      "label": "Angela Rayner"
+    },
+    "replacedBy": {
+      "value": "Q391986",
+      "label": "Kate Green"
     },
     "start": {
       "value": "2020-04-06T00:00:00Z",
@@ -532,5 +649,20 @@
       "precision": "11"
     },
     "statement": "Q19979355$53d360fd-490b-766e-c4b2-d4e188d208ba"
+  },
+  {
+    "item": {
+      "value": "Q391986",
+      "label": "Kate Green"
+    },
+    "replaces": {
+      "value": "Q19979355",
+      "label": "Rebecca Long-Bailey"
+    },
+    "start": {
+      "value": "2020-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q391986$8851999A-5D19-4343-A368-828F5CC92B48"
   }
 ]
